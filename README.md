@@ -39,6 +39,8 @@ No se implementaron características avanzadas, pero permitió adquirir experien
 
 ## 📸 Evidencia
 
+<img width="6000" height="3375" alt="Diseño_de_interfaz" src="https://github.com/user-attachments/assets/f6001091-4e72-4401-a0fa-0dcac5ac4541" />
+
 ![1730602516042](https://github.com/user-attachments/assets/bb713a1b-2f15-40dd-accc-6064feb49aa2)
 
 ![1730602516042](https://github.com/user-attachments/assets/dee7c3b8-2f83-4be8-a387-5e140e873073)
